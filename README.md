@@ -1,4 +1,4 @@
-# Zero degrees. Mentored by myself. 14 years old.
+# Zero degrees. Mentored by myself. 15 years old.
 Iʼm a self-taught student from **Finland**, whoʼs insterested in Web development, Search engine optimization, Software engineering, System administration and [Information security](https://en.wikipedia.org/wiki/Information_security). 
 
 ## Socials
