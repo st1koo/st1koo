@@ -3,11 +3,12 @@ Iʼm a self-taught student from **Finland**, whoʼs insterested in Web developme
 
 ## Socials
 + ![Discord](https://i.ibb.co/7j29n15/Discord.png) __Discord__ ― [st1ko#4307]()
-+ ![Twitter](https://i.ibb.co/3NWSShR/Twitter.png) __Twitter__ ― [@st1ko_](https://twitter.com/st1ko_)
++ ![Twitter](https://i.ibb.co/3NWSShR/Twitter.png) __Twitter__ ― [@st1ko2](https://twitter.com/st1ko2)
 
 ## Business inquiries
++ ![Discord](https://i.ibb.co/7j29n15/Discord.png) __Discord__ ― [st1ko#4307]()
 + ✉️ `fbinuub@gmail.com`
-+ ![Twitter](https://i.ibb.co/3NWSShR/Twitter.png) __Twitter__ ― [@st1ko_](https://twitter.com/st1ko_)
++ ![Twitter](https://i.ibb.co/3NWSShR/Twitter.png) __Twitter__ ― [@st1ko2](https://twitter.com/st1ko2)
 
 ## Knownledge
 | Area of specialization | Description |
