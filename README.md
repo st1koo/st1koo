@@ -4,7 +4,9 @@ Iʼm a self-taught student from **Finland**, whoʼs insterested in Web developme
 ## Socials
 + ![Discord](https://i.ibb.co/7j29n15/Discord.png) __Discord__ ― [st1ko#4307]()
 + ![Twitter](https://i.ibb.co/3NWSShR/Twitter.png) __Twitter__ ― [@st1ko2](https://twitter.com/st1ko2)
-
+<p align="center">
+	<a href="https://github.com/mtfy"><img src="https://github-readme-stats.vercel.app/api?username=mtfy&theme=tokyonight&hide=prs,issues&count_private=true" title="mtfy's GitHub Statistics" alt="mtfy's GitHub Statistics"></a> <a href="https://github.com/mtfy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtfy&&theme=tokyonight&layout=compact" title="mtfy's Most Used Languages" alt="mtfy's Most Used Languages"></a>
+</p>
 ## Business inquiries
 + ![Discord](https://i.ibb.co/7j29n15/Discord.png) __Discord__ ― [st1ko#4307]()
 + ✉️ `fbinuub@gmail.com`
