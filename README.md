@@ -6,7 +6,7 @@ Iʼm a self-taught student from **Finland**, whoʼs insterested in Web developme
 + ![Twitter](https://i.ibb.co/3NWSShR/Twitter.png) __Twitter__ ― [@st1ko2](https://twitter.com/st1ko2)
 
 <p align="center">
-<a href="https://github.com/st1ko-gs"><img src="https://github-readme-stats.vercel.app/api?username=st1ko-gs&theme=tokyonight&hide=prs,issues&count_private=true" title="st1ko's GitHub Statistics" alt="st1ko's GitHub Statistics"></a> <a href="https://github.com/st1ko-gs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st1ko-gs&&theme=tokyonight&layout=compact" title="st1ko's Most Used Languages" alt="st1ko's Most Used Languages"></a>
+<a href="https://github.com/st1ko-gs"><img src="[https://github-readme-stats.vercel.app/api?username=st1ko-gs&theme=tokyonight&hide=prs,issues&count_private=true](https://github-readme-stats.vercel.app/api?username=st1ko-gs&theme=tokyonight&hide=prs,issues&count_private=true)" title="st1ko's GitHub Statistics" alt="st1ko's GitHub Statistics"></a> <a href="https://github.com/st1ko-gs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st1ko-gs&&theme=tokyonight&layout=compact" title="st1ko's Most Used Languages" alt="st1ko's Most Used Languages"></a>
 </p>
 
 ## Business inquiries
