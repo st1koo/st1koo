@@ -4,7 +4,7 @@ Iʼm a self-taught student from **Finland**, whoʼs insterested in Web developme
 ## Socials
 + ![Discord](https://i.ibb.co/7j29n15/Discord.png) __Discord__ ― [st1ko#4307]()
 + ![Twitter](https://i.ibb.co/3NWSShR/Twitter.png) __Twitter__ ― [@st1ko2](https://twitter.com/st1ko2)
-+ 
+
 <p align="center">
 <a href="https://github.com/st1ko-gs"><img src="https://github-readme-stats.vercel.app/api?username=st1ko-gs&theme=tokyonight&hide=prs,issues&count_private=true" title="st1ko's GitHub Statistics" alt="st1ko's GitHub Statistics"></a> <a href="https://github.com/st1ko"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st1ko-gs&&theme=tokyonight&layout=compact" title="st1ko's Most Used Languages" alt="mtfy's Most Used Languages"></a>
 </p>
