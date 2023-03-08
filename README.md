@@ -1,6 +1,10 @@
 # Zero degrees. Mentored by myself. 15 years old.
 Iʼm a self-taught student from **Finland**, whoʼs insterested in Web development, Search engine optimization, Software engineering, System administration and [Information security](https://en.wikipedia.org/wiki/Information_security). 
-
+<p align="center">
+src="https://img.shields.io/github/followers/mtfy?style=for-the-badge" alt="mtfy's GitHub Followers" title="mtfy's GitHub Followers"></a> <a href="#"><img
+src="https://img.shields.io/github/stars/mtfy?style=for-the-badge" alt="mtfy's GitHub Stars" title="mtfy's GitHub Stars"></a>
+	     </p>
+  </p>
 ## Socials
 + ![Discord](https://i.ibb.co/7j29n15/Discord.png) __Discord__ ― [st1ko#4307]()
 + ![Twitter](https://i.ibb.co/3NWSShR/Twitter.png) __Twitter__ ― [@st1ko2](https://twitter.com/st1ko2)
