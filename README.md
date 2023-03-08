@@ -2,6 +2,7 @@
 Iʼm a self-taught student from **Finland**, whoʼs insterested in Web development, Search engine optimization, Software engineering, System administration and [Information security](https://en.wikipedia.org/wiki/Information_security). 
 
 <p align="center">
+  <a href="https://github.com/st1ko-gs?tab=followers"><img
 src="https://img.shields.io/github/followers/st1ko-gs?style=for-the-badge" alt="st1ko's GitHub Followers" title="st1ko's GitHub Followers"></a> <a href="#"><img
 src="https://img.shields.io/github/stars/st1ko-gs?style=for-the-badge" alt="st1ko's GitHub Stars" title="st1ko's GitHub Stars"></a>
 </p>
