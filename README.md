@@ -5,6 +5,7 @@ Iʼm a self-taught student from **Finland**, whoʼs insterested in Web developme
   <a href="https://github.com/st1ko-gs?tab=followers"><img
 src="https://img.shields.io/github/followers/st1ko-gs?style=for-the-badge" alt="st1ko's GitHub Followers" title="st1ko's GitHub Followers"></a> <a href="#"><img
 src="https://img.shields.io/github/stars/st1ko-gs?style=for-the-badge" alt="st1ko's GitHub Stars" title="st1ko's GitHub Stars"></a>
+  
 </p>
 
 ## Socials
