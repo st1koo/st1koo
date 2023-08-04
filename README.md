@@ -14,7 +14,7 @@
 </p>
 
 ## Socials/Business inquiries
-+ ![Discord](https://i.ibb.co/7j29n15/Discord.png) __Discord__ ― [st1ko#4307]()
++ ![Discord](https://i.ibb.co/7j29n15/Discord.png) __Discord__ ― [st1koo]()
 + ![Twitter](https://i.ibb.co/3NWSShR/Twitter.png) __Twitter__ ― [@st1ko2](https://twitter.com/st1ko2)
 
 ## Knownledge
