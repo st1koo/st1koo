@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning more about react,c#<br>👯 I’m looking to collaborate on various open source projects<br>🤝 I’m looking for help with writing clearer documentation<br>🌱 I’m currently learning javascript<br>💬 Ask me about anything there is to know about backend development or frontend 50€ i know the answer<br>⚡ Fun fact i dont like doing just backend i want to have full controll over the software i deliver so full stack dev it is
+🔭 I’m currently working on learning more about react,c#<br>👯 I’m looking to collaborate on various open source projects<br>🤝 I’m looking for help with writing clearer documentation<br>🌱 I’m currently learning javascript<br>💬 Ask me about anything there is to know about backend development or frontend i know the answer<br>⚡ Fun fact i dont like doing just backend i want to have full controll over the software i deliver so full stack dev it is
 
 
 ## 🌐 Socials:
