@@ -17,15 +17,12 @@
 		<li>Twitter <a href="https://x.com/veerkoo">@veerkoo</a></li>
 		<li>Discord <strong>_verko_</strong> or <a href="https://discord.gg/JGPVCzvzZA">discord.gg/veerko-dev</a></li>
 		<li>Email <a href="mailto:fbinuub@gmail.com">fbinuub@gmail.com</a></li>
-		##
-                 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCD9urB1Zpon4IXBAhYnTdTw)
 	</ul>
 </p>
 
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JGPVCzvzZA) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/veerkoo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCD9urB1Zpon4IXBAhYnTdTw) 
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCD9urB1Zpon4IXBAhYnTdTw) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=veerko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
