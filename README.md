@@ -12,11 +12,12 @@
 </p>
 
 <p>
-	<h3>Socials</h3>
+	<h3>🌐 Socials:</h3>
 	<ul>
 		<li>Twitter <a href="https://x.com/veerkoo">@veerkoo</a></li>
 		<li>Discord <strong>_verko_</strong> or <a href="https://discord.gg/JGPVCzvzZA">discord.gg/veerko-dev</a></li>
 		<li>Email <a href="mailto:fbinuub@gmail.com">fbinuub@gmail.com</a></li>
+		[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCD9urB1Zpon4IXBAhYnTdTw)
 	</ul>
 </p>
 
