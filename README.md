@@ -24,9 +24,6 @@
 
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCD9urB1Zpon4IXBAhYnTdTw) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=veerko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
