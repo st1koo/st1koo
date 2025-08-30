@@ -14,7 +14,7 @@
 <p>
 	<h3>🌐 Socials:</h3>
 	<ul>
-		<li>Discord <strong>_verko_</strong> or <a href="https://discord.gg/JGPVCzvzZA">discord.gg/veerko-dev</a></li>
+		<li>Discord <strong>.x92.</strong> or <a href="https://discord.gg/GW3hBm5zc5">discord.gg/x92-dev</a></li>
 		<li>Email <a href="mailto:fbinuub@gmail.com">fbinuub@gmail.com</a></li>
 	</ul>
 </p>
